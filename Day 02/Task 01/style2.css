@@ -1,0 +1,22 @@
+.box {
+    height: 500px;
+    width: 100vw;
+    background-color: tomato;
+    border: 6px solid red;
+    font-size: 10rem;
+  }
+  /*.inner-box {
+    height: 50%;
+    width: 100vw;
+    background-color: seagreen;
+    border: 6px solid yellow;
+    font-size: 3rem;
+  }*/
+  .inner-box {
+    height: 50vh;
+    width: 50%;
+    background-color: seagreen;
+    border: 6px solid yellow;
+    font-size: 0.5em;
+  }
+  

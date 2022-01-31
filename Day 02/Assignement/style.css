@@ -1,0 +1,74 @@
+html {
+    font-size: 10px;
+  }
+  body {
+    font-size: 1.7rem;
+    line-height: 1.2;
+    text-align: center;
+    color: black;
+    margin: 0;
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 6rem;
+  }
+  #title_descriptor {
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  #main {
+    margin: 0px 0px;
+    padding: 15px;
+    background: rgba(7, 78, 78, 0.2);
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #image {
+    background: whitesmoke;
+    padding: 10px;
+    margin: 0;
+  }
+  #image-caption {
+    margin: 12px 0 5px 0;
+  }
+  
+  #second_heading {
+    margin: 50px 0;
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  ul {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.5;
+  }
+  
+  li {
+    margin: 15px 0;
+  }
+  
+  blockquote {
+    font-style: italic;
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    color: darksalmon;
+  }
