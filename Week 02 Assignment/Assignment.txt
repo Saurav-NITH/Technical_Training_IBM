@@ -1,0 +1,7 @@
+Target this weekend is to create a To Do List with the help of HTML, CSS and JS.
+
+Features that should be in the App:
+Add Task Option
+Delete Task Option
+Edit Task Option (Bonus)
+Responsiveness 
