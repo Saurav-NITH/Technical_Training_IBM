@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: green;
+  font-family: Arial;
+  text-align: center;
+}
+
+/* Styling the Form (Color, Padding, Shadow) */
+form {
+  background-color: #fff;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px 20px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.text-input {
+  text-align: left;
+  margin-bottom: 25px;
+}
+
+.text-input label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.text-input input,
+.text-input select,
+.text-input textarea {
+  border: 1px solid #777;
+  border-radius: 2px;
+  font-family: inherit;
+  padding: 10px;
+  display: block;
+  width: 95%;
+}
+
+/* Styling form-control Radio
+      button and Checkbox */
+.text-input input[type="radio"],
+.text-input input[type="checkbox"] {
+  display: inline-block;
+  width: auto;
+}
+
+/* Styling Button */
+button {
+  background-color: #999999;
+  border: 1px solid #777;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 24px;
+  display: block;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}

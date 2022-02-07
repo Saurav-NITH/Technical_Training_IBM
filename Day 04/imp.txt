@@ -1,7 +1,0 @@
-flexboxfroggy - https://flexboxfroggy.com/
-
-good website for flexbox
-
-https://caniuse.com/
-
-https://exist08.github.io/tree/stats-preview-card-component-main/

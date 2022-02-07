@@ -1,6 +1,0 @@
-Create a tribute page using HTML + CSS
-
-https://devpractical.com/public/tribute-page-screenshot.jpg
-
-
-https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg
