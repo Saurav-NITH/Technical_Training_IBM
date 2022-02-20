@@ -1,3 +1,6 @@
 [submodule "Week 03 Assignment/Signup-Form"]
 	path = Week 03 Assignment/Signup-Form
 	url = https://github.com/Saurav-NITH/Signup-Form.git
+[submodule "Week 04 Assignment/Shopping-Cart-Food-App"]
+	path = Week 04 Assignment/Shopping-Cart-Food-App
+	url = https://github.com/Saurav-NITH/Shopping-Cart-Food-App.git
