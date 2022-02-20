@@ -4,3 +4,6 @@
 [submodule "Week 04 Assignment/Shopping-Cart-Food-App"]
 	path = Week 04 Assignment/Shopping-Cart-Food-App
 	url = https://github.com/Saurav-NITH/Shopping-Cart-Food-App.git
+[submodule "Week 04 Assignment/Contact-List"]
+	path = Week 04 Assignment/Contact-List
+	url = https://github.com/Saurav-NITH/Contact-List.git
