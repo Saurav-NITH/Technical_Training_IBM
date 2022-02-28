@@ -7,3 +7,6 @@
 [submodule "Week 04 Assignment/Contact-List"]
 	path = Week 04 Assignment/Contact-List
 	url = https://github.com/Saurav-NITH/Contact-List.git
+[submodule "Week 05 Assignment/Expense-List-App"]
+	path = Week 05 Assignment/Expense-List-App
+	url = https://github.com/Saurav-NITH/Expense-List-App.git
